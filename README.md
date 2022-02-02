@@ -1,3 +1,5 @@
+still working on the writing...
+
 I have gotten into the mechanical keyboard hobby during the pandemic. after going through a couple of keyboards with various setups. I realized two thing that would make a keyboard works better for me.
 
 #### key features (pun intended)
@@ -15,3 +17,9 @@ I have gotten into the mechanical keyboard hobby during the pandemic. after goin
 - personally I primarily use left thumb for `space bar`,
 
 #### layouts
+
+![default layer 0](Images/default-layer-0.png)
+![alt layer 0](Images/alt-layer-0.png)
+![default layer 1](Images/default-layer-1.png)
+![default layer 2](Images/default-layer-2.png)
+![default layer 3](Images/default-layer-3.png)
