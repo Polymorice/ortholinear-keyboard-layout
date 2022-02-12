@@ -23,3 +23,7 @@ I have gotten into the mechanical keyboard hobby during the pandemic. after goin
 ![default layer 1](Images/default-layer-1.png)
 ![default layer 2](Images/default-layer-2.png)
 ![default layer 3](Images/default-layer-3.png)
+
+##### my keyboard
+
+![my keyboard](Images/my-keyboard.jpeg)
